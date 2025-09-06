@@ -5,7 +5,7 @@ Este projeto consiste em um **banco de dados relacional** para um cenário de **
 
 O objetivo é aplicar conceitos de **modelagem de dados**, como chaves primárias, estrangeiras, relacionamentos 1:N e N:M, além de criar **queries SQL complexas** para análise de dados de clientes, produtos, pedidos, fornecedores, pagamentos e entregas.
 
-Este projeto foi desenvolvido como parte do curso da **Digital Innovation One (DIO)**, servindo como **exercício prático** de criação e manipulação de banco de dados.
+Este projeto foi desenvolvido como parte do curso da Dio, servindo como **exercício prático** de criação e manipulação de banco de dados.
 
 ---
 
