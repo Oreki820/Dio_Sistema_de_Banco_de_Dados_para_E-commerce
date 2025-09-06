@@ -1,4 +1,4 @@
-# Projeto de Banco de Dados – E-commerce (DIO)
+# Projeto de Banco de Dados – E-commerce
 
 ## 📌 Descrição do Projeto
 Este projeto consiste em um **banco de dados relacional** para um cenário de **e-commerce**, desenvolvido utilizando **MySQL Workbench**.  
