@@ -7,6 +7,8 @@ O objetivo é aplicar conceitos de **modelagem de dados**, como chaves primária
 
 Este projeto foi desenvolvido como parte do curso da Dio, servindo como **exercício prático** de criação e manipulação de banco de dados.
 
+No script.sql você encontrara o código completo que utilizei
+
 ---
 
 ## 🎯 Objetivos do Projeto
